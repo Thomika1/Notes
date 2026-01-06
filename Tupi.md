@@ -1,1 +1,2 @@
 - preciso rever como o arquivo do emissor ao adquirente chega, ele vem pela rede/cielo. deveria vir pelo jog de collect disputes. Aproveito e ja reviso tudo isso
+- PRECISO CRIAR TODA A CADEIA, CONTRACT_DISPUTE, SINTALLMENT, TRANSACTION, CYCLE, E STEP PARA UM NOVO CHARGEBACK
