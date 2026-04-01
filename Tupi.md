@@ -5,3 +5,9 @@
 
 # Para reunicao semanal
 - Seria legal fazer um localstack automatico, para testes.
+
+
+
+# Vindi
+
+[[TODO merchant]] : finaliar parte do merchant.
