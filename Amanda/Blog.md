@@ -61,10 +61,15 @@ Para a aceitação do projeto, os seguintes parâmetros técnicos devem ser aten
 
 ---
 
-## 4. Orçamento e Estimativas
 
-| Etapa | Descrição | Valor Estimado |
-| :--- | :--- | :--- |
-| **Fase 1** | Design, Front-end Estático e SEO Base | R$ [Definir] |
-| **Fase 2** | API em Go, Admin e Importação de Documentos | R$ [Definir] |
-| **Total** | **Projeto Completo (Turnkey)** | **R$ [Definir]** |
+### Estimativa de Investimento
+
+| Item       | Descrição                                          | Investimento     |
+| :--------- | :------------------------------------------------- | :--------------- |
+| **Fase 1** | Design, Desenvolvimento Front-end e Otimização SEO | R$ [Inserir]     |
+| **Fase 2** | Backend em Go, Painel Admin e Importação de Word   | R$ [Inserir]     |
+| **Total**  | **Desenvolvimento Completo**                       | **R$ [Inserir]** |
+
+**Observações:**
+- Os custos de domínio e serviços de terceiros (hospedagem/e-mail) são de responsabilidade do cliente.
+- Pagamento parcelado conforme as entregas de cada fase.
