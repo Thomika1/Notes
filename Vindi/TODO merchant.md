@@ -41,3 +41,8 @@ Se quiser, eu já te proponho o desenho exato de migration + método de reposit�
 
 - [ ] Area de cadastro de merchant
 - [ ] cadastrar pvs vindi em dev
+
+
+# Pontos importantes
+- a parte de resposta pro adquirente esta funcionando com a rede?
+- 
