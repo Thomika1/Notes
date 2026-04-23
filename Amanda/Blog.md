@@ -64,11 +64,11 @@ Para a aceitação do projeto, os seguintes parâmetros técnicos devem ser aten
 
 ### Estimativa de Investimento
 
-| Item       | Descrição                                          | Investimento     |
-| :--------- | :------------------------------------------------- | :--------------- |
-| **Fase 1** | Design, Desenvolvimento Front-end e Otimização SEO | R$ [Inserir]     |
-| **Fase 2** | Backend em Go, Painel Admin e Importação de Word   | R$ [Inserir]     |
-| **Total**  | **Desenvolvimento Completo**                       | **R$ [Inserir]** |
+| Item       | Descrição                                          | Investimento   |
+| :--------- | :------------------------------------------------- | :------------- |
+| **Fase 1** | Design, Desenvolvimento Front-end e Otimização SEO | R$ 1000,00     |
+| **Fase 2** | Backend em Go, Painel Admin e Importação de Word   | R$ 2000,00     |
+| **Total**  | **Desenvolvimento Completo**                       | **R$ 4000,00** |
 
 **Observações:**
 - Os custos de domínio e serviços de terceiros (hospedagem/e-mail) são de responsabilidade do cliente.

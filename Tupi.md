@@ -11,3 +11,4 @@
 # Vindi
 
 [[TODO merchant]] : finaliar parte do merchant.
+[[Acquirer Response]] : Desenvolver a resposta ao adquirente.

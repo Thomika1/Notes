@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Amanda/Blog.md",
+                "file": "Vindi/Acquirer Response.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Blog"
+              "title": "Acquirer Response"
             }
           }
         ]
@@ -183,13 +183,14 @@
       "bases:Create new base": false
     }
   },
-  "active": "33e68468fc62a1c9",
+  "active": "d5810af6aada7616",
   "lastOpenFiles": [
-    "Amanda/Blog.md",
+    "Vindi/Acquirer Response.md",
     "Vindi/TODO merchant.md",
+    "Tupi.md",
+    "Amanda/Blog.md",
     "Amanda",
     "devBooks project.md",
-    "Tupi.md",
     "Rust.md",
     "README.md",
     "Vindi"
