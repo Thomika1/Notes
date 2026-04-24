@@ -6,17 +6,39 @@
   "hideUnresolved": false,
   "showOrphans": true,
   "collapse-color-groups": true,
-  "colorGroups": [],
+  "colorGroups": [
+    {
+      "query": "path:Tupi  ",
+      "color": {
+        "a": 1,
+        "rgb": 65310
+      }
+    },
+    {
+      "query": "path:Coding  ",
+      "color": {
+        "a": 1,
+        "rgb": 5984992
+      }
+    },
+    {
+      "query": "path:Projects  ",
+      "color": {
+        "a": 1,
+        "rgb": 14701145
+      }
+    }
+  ],
   "collapse-display": true,
   "showArrow": false,
   "textFadeMultiplier": 0,
-  "nodeSizeMultiplier": 1,
-  "lineSizeMultiplier": 1,
-  "collapse-forces": false,
-  "centerStrength": 0.190635813148789,
-  "repelStrength": 8.67106401384083,
+  "nodeSizeMultiplier": 0.860441080729167,
+  "lineSizeMultiplier": 0.799031575520833,
+  "collapse-forces": true,
+  "centerStrength": 0.692708333333333,
+  "repelStrength": 15.478515625,
   "linkStrength": 1,
-  "linkDistance": 105,
+  "linkDistance": 30,
   "scale": 1,
   "close": false
 }

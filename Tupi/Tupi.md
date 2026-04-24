@@ -12,3 +12,4 @@
 
 [[TODO merchant]] : finaliar parte do merchant.
 [[Acquirer Response]] : Desenvolver a resposta ao adquirente.
+[[Pontos de atenção]] : Refactor na parte de cadastro de merchant.
