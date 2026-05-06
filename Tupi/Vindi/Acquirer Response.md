@@ -1,2 +1,0 @@
-- Dedicated button to upload file to acquirer.
-- Dedicated endpoint to upload file to acquirer.
